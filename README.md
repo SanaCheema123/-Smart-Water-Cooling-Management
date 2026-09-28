@@ -1,4 +1,5 @@
 # Smart Water and Cooling Management Platform — Backend (FIXED)
+[Aivonex.webm](https://github.com/user-attachments/assets/29e0ab74-2636-483e-8894-8ad777650081)
 
 A prototype backend for cooling-water monitoring, cooling-water demand prediction, leak/anomaly detection, WUE, recommendations, WebSockets, PostgreSQL and Grafana.
 
